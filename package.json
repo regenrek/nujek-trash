@@ -11,8 +11,8 @@
     "lint": "yarn lint:js"
   },
   "dependencies": {
-    "@nujek/storyblok": "^0.0.85",
-    "@nujek/ui": "^0.0.180",
+    "@nujek/storyblok": "^0.0.87",
+    "@nujek/ui": "^0.0.182",
     "@nuxtjs/composition-api": "^0.20.2",
     "@nuxtjs/tailwindcss": "^3.4.2",
     "bootstrap-vue": "^2.21.2",

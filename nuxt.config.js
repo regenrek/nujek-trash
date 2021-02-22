@@ -15,11 +15,12 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
 
-  modules: [
-    'bootstrap-vue/nuxt'
+  css: [
+    'aaa/dist/main.css'
   ],
 
   buildModules: [
+    'bootstrap-vue/nuxt',
     '@nuxtjs/eslint-module',
     '@nuxtjs/composition-api',
     '@nuxtjs/tailwindcss',
